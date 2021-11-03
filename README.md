@@ -1,3 +1,7 @@
+# Custom Printer 
+Includes firmware for the big printer. 
+Run `edit.sh` to get started
+
 # BIGTREETECH SKR Mini E3 V1.x and V2.x
 
 BIGTREETECH SKR Mini E3 V1.x and V2.x mainboards are ultra-quiet, low-power, high-quality 3D printing machine controller boards from BIQU.
