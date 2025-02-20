@@ -633,7 +633,7 @@
  * *** IT IS HIGHLY RECOMMENDED TO LEAVE THIS OPTION ENABLED! ***
  */
 #define PREVENT_COLD_EXTRUSION
-#define EXTRUDE_MINTEMP 170
+#define EXTRUDE_MINTEMP 195
 
 /**
  * Prevent a single extrusion longer than EXTRUDE_MAXLENGTH.
@@ -1239,7 +1239,7 @@
 
 // The size of the printable area
 #define X_BED_SIZE 300
-#define Y_BED_SIZE 290
+#define Y_BED_SIZE 280
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
 #define X_MIN_POS 0
